@@ -1,0 +1,29 @@
+[
+  {
+    "comparison": "Full vs Visual Only",
+    "b": 0,
+    "c": 0,
+    "n_discordant": 0,
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "significant": "n/a"
+  },
+  {
+    "comparison": "Full vs Visual + Environment",
+    "b": 0,
+    "c": 0,
+    "n_discordant": 0,
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "significant": "n/a"
+  },
+  {
+    "comparison": "Full vs Visual + Stage",
+    "b": 0,
+    "c": 0,
+    "n_discordant": 0,
+    "chi2": 0.0,
+    "p_value": 1.0,
+    "significant": "n/a"
+  }
+]

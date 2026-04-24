@@ -1,0 +1,5 @@
+Configuration,Accuracy (%),F1-Score (%),Early-Stage Acc (%)
+Visual Only,98.8,66.3,100.0
+Visual + Environment,98.8,66.3,100.0
+Visual + Stage,98.8,66.3,100.0
+Full Model (V+E+S),98.8,66.3,100.0

@@ -1,0 +1,4 @@
+comparison,b,c,n_discordant,chi2,p_value,significant
+Full vs Visual Only,0,0,0,0.0,1.0,n/a
+Full vs Visual + Environment,0,0,0,0.0,1.0,n/a
+Full vs Visual + Stage,0,0,0,0.0,1.0,n/a

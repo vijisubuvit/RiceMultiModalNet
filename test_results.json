@@ -1,0 +1,55 @@
+{
+  "test_accuracy": 0.9879032258064516,
+  "test_precision": 0.6586660162072797,
+  "test_recall": 0.6666666666666666,
+  "test_f1": 0.6626315493506368,
+  "confusion_matrix": [
+    [
+      244,
+      0,
+      0
+    ],
+    [
+      0,
+      246,
+      0
+    ],
+    [
+      1,
+      5,
+      0
+    ]
+  ],
+  "stage_accuracy": [
+    {
+      "stage_name": "Heading",
+      "accuracy": 1.0,
+      "count": 154,
+      "accuracy_pct": 100.0
+    },
+    {
+      "stage_name": "Milk Stage",
+      "accuracy": 0.0,
+      "count": 3,
+      "accuracy_pct": 0.0
+    },
+    {
+      "stage_name": "Stem Elongation",
+      "accuracy": 0.9821428571428571,
+      "count": 168,
+      "accuracy_pct": 98.21428571428571
+    },
+    {
+      "stage_name": "Tillering",
+      "accuracy": 1.0,
+      "count": 171,
+      "accuracy_pct": 100.0
+    }
+  ],
+  "classification_report": "                  precision    recall  f1-score   support\n\nBacterial Blight       1.00      1.00      1.00       244\n      Brown Spot       0.98      1.00      0.99       246\n       Leaf Smut       0.00      0.00      0.00         6\n\n        accuracy                           0.99       496\n       macro avg       0.66      0.67      0.66       496\n    weighted avg       0.98      0.99      0.98       496\n",
+  "classes": [
+    "Bacterial Blight",
+    "Brown Spot",
+    "Leaf Smut"
+  ]
+}
